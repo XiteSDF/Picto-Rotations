@@ -1441,7 +1441,7 @@
         },
         {
             "type": "JumpToTimestamp",
-            "targetTime": 428.012
+            "targetTime": 427.7
         },
         {
             "type": "Skill",
