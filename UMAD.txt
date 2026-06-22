@@ -1713,6 +1713,7 @@
             "type": "Skill",
             "skillName": "Rainbow Drip",
             "targetList": [
+                3,
                 4
             ]
         },
@@ -1741,6 +1742,21 @@
         },
         {
             "type": "Skill",
+            "skillName": "Holy in White",
+            "targetList": [
+                3,
+                4
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Swiftcast",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
             "skillName": "Thunder in Magenta",
             "targetList": [
                 3
@@ -1755,9 +1771,9 @@
         },
         {
             "type": "Skill",
-            "skillName": "Comet in Black",
+            "skillName": "Sprint",
             "targetList": [
-                3
+                1
             ]
         },
         {
@@ -1769,7 +1785,14 @@
         },
         {
             "type": "Skill",
-            "skillName": "Swiftcast",
+            "skillName": "Comet in Black",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Smudge",
             "targetList": [
                 1
             ]
@@ -1779,20 +1802,6 @@
             "skillName": "Hammer Motif",
             "targetList": [
                 1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Striking Muse",
-            "targetList": [
-                1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Hammer Stamp",
-            "targetList": [
-                3
             ]
         },
         {
@@ -1825,23 +1834,21 @@
         },
         {
             "type": "Skill",
+            "skillName": "Striking Muse",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Stamp",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
             "skillName": "Hammer Brush",
-            "targetList": [
-                3,
-                4
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Polishing Hammer",
-            "targetList": [
-                3,
-                4
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Holy in White",
             "targetList": [
                 3,
                 4
@@ -1865,10 +1872,25 @@
         },
         {
             "type": "Skill",
+            "skillName": "Polishing Hammer",
+            "targetList": [
+                3,
+                4
+            ]
+        },
+        {
+            "type": "Skill",
             "skillName": "Holy in White",
             "targetList": [
-                4,
-                3
+                3,
+                4
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Starry Sky Motif",
+            "targetList": [
+                1
             ]
         },
         {
@@ -1881,13 +1903,6 @@
         {
             "type": "Skill",
             "skillName": "Hammer Motif",
-            "targetList": [
-                1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Starry Sky Motif",
             "targetList": [
                 1
             ]
@@ -1910,7 +1925,7 @@
             "type": "Skill",
             "skillName": "Water in Blue",
             "targetList": [
-                3
+                4
             ]
         },
         {
@@ -2008,14 +2023,14 @@
             "type": "Skill",
             "skillName": "Thunder in Magenta",
             "targetList": [
-                4
+                3
             ]
         },
         {
             "type": "Skill",
             "skillName": "Blizzard in Cyan",
             "targetList": [
-                4
+                3
             ]
         },
         {
@@ -2029,7 +2044,7 @@
             "type": "Skill",
             "skillName": "Stone in Yellow",
             "targetList": [
-                4
+                3
             ]
         },
         {
