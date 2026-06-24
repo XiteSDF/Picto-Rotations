@@ -1399,6 +1399,13 @@
         },
         {
             "type": "Skill",
+            "skillName": "Swiftcast",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
             "skillName": "Thunder in Magenta",
             "targetList": [
                 2
@@ -1421,13 +1428,6 @@
         {
             "type": "Skill",
             "skillName": "Hammer Motif",
-            "targetList": [
-                1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Swiftcast",
             "targetList": [
                 1
             ]
@@ -1785,6 +1785,13 @@
         },
         {
             "type": "Skill",
+            "skillName": "Hammer Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
             "skillName": "Comet in Black",
             "targetList": [
                 3
@@ -1799,16 +1806,16 @@
         },
         {
             "type": "Skill",
-            "skillName": "Hammer Motif",
+            "skillName": "Addle",
             "targetList": [
                 1
             ]
         },
         {
             "type": "Skill",
-            "skillName": "Addle",
+            "skillName": "Holy in White",
             "targetList": [
-                1
+                3
             ]
         },
         {
@@ -1873,14 +1880,6 @@
         {
             "type": "Skill",
             "skillName": "Polishing Hammer",
-            "targetList": [
-                3,
-                4
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Holy in White",
             "targetList": [
                 3,
                 4
