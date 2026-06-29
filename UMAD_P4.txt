@@ -1,0 +1,532 @@
+{
+    "name": "(anonymous line)",
+    "fileType": "Record",
+    "config": {
+        "job": "PCT",
+        "shellVersion": 2,
+        "level": 100,
+        "wd": 152,
+        "main": 6839,
+        "spellSpeed": 528,
+        "skillSpeed": 420,
+        "criticalHit": 3576,
+        "directHit": 2392,
+        "determination": 2017,
+        "piety": 440,
+        "tenacity": 420,
+        "countdown": 0,
+        "randomSeed": "sup",
+        "casterTax": 0,
+        "fps": 100,
+        "gcdSkillCorrection": 0,
+        "animationLock": 0.7,
+        "timeTillFirstManaTick": 1.2,
+        "procMode": "Always",
+        "initialResourceOverrides": [
+            {
+                "type": "cd_LIVING_MUSE",
+                "timeTillFullOrDrop": 67.97,
+                "stacks": 100,
+                "effectOrTimerEnabled": true
+            },
+            {
+                "type": "cd_STEEL_MUSE",
+                "timeTillFullOrDrop": 47.15,
+                "stacks": 100,
+                "effectOrTimerEnabled": true
+            },
+            {
+                "type": "IN_COMBAT",
+                "timeTillFullOrDrop": -1,
+                "stacks": 1,
+                "effectOrTimerEnabled": true
+            },
+            {
+                "type": "PALETTE_GAUGE",
+                "timeTillFullOrDrop": -1,
+                "stacks": 100,
+                "effectOrTimerEnabled": true
+            },
+            {
+                "type": "MONOCHROME_TONES",
+                "timeTillFullOrDrop": -1,
+                "stacks": 1,
+                "effectOrTimerEnabled": true
+            },
+            {
+                "type": "PORTRAIT",
+                "timeTillFullOrDrop": -1,
+                "stacks": 2,
+                "effectOrTimerEnabled": true
+            },
+            {
+                "type": "WEAPON_CANVAS",
+                "timeTillFullOrDrop": -1,
+                "stacks": 0,
+                "effectOrTimerEnabled": true
+            },
+            {
+                "type": "PAINT",
+                "timeTillFullOrDrop": -1,
+                "stacks": 5,
+                "effectOrTimerEnabled": true
+            },
+            {
+                "type": "cd_TINCTURE",
+                "timeTillFullOrDrop": 12.3,
+                "stacks": 1,
+                "effectOrTimerEnabled": true
+            }
+        ]
+    },
+    "actions": [
+        {
+            "type": "Skill",
+            "skillName": "Hammer Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Striking Muse",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Starry Muse",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Stamp",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Comet in Black",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Retribution of the Madeen",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Pom Muse",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Brush",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Subtractive Palette",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Blizzard in Cyan",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Stone in Yellow",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Thunder in Magenta",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Star Prism",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Polishing Hammer",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Rainbow Drip",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Comet in Black",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Subtractive Palette",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Blizzard in Cyan",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Stone in Yellow",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Thunder in Magenta",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Comet in Black",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Subtractive Palette",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Blizzard in Cyan",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Wing Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Striking Muse",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Stone in Yellow",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Comet in Black",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Stamp",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Winged Muse",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Mog of the Ages",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Claw Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Thunder in Magenta",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Brush",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Polishing Hammer",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Clawed Muse",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Swiftcast",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Maw Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Subtractive Palette",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Blizzard in Cyan",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Stone in Yellow",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Thunder in Magenta",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fanged Muse",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Comet in Black",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Holy in White",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Subtractive Palette",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Blizzard in Cyan",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Swiftcast",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Rainbow Drip",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Pom Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Starry Sky Motif",
+            "targetList": [
+                1
+            ]
+        }
+    ]
+}
