@@ -1224,13 +1224,6 @@
         },
         {
             "type": "Skill",
-            "skillName": "Mog of the Ages",
-            "targetList": [
-                2
-            ]
-        },
-        {
-            "type": "Skill",
             "skillName": "Claw Motif",
             "targetList": [
                 1
@@ -1357,7 +1350,7 @@
         },
         {
             "type": "Skill",
-            "skillName": "Fanged Muse",
+            "skillName": "Mog of the Ages",
             "targetList": [
                 2
             ]
@@ -1371,7 +1364,7 @@
         },
         {
             "type": "Skill",
-            "skillName": "Retribution of the Madeen",
+            "skillName": "Fanged Muse",
             "targetList": [
                 2
             ]
@@ -1452,9 +1445,10 @@
         },
         {
             "type": "Skill",
-            "skillName": "Addle",
+            "skillName": "Retribution of the Madeen",
             "targetList": [
-                1
+                3,
+                4
             ]
         },
         {
@@ -1466,14 +1460,21 @@
         },
         {
             "type": "Skill",
-            "skillName": "Pom Muse",
+            "skillName": "Addle",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Thunder in Magenta",
             "targetList": [
                 3
             ]
         },
         {
             "type": "Skill",
-            "skillName": "Thunder in Magenta",
+            "skillName": "Pom Muse",
             "targetList": [
                 3
             ]
