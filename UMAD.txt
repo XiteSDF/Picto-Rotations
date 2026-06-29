@@ -2137,6 +2137,342 @@
             "targetList": [
                 3
             ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Stone in Yellow",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Swiftcast",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Addle",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Subtractive Palette",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Blizzard in Cyan",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Stone in Yellow",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Thunder in Magenta",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Claw Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Starry Sky Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Clawed Muse",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Sprint",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Comet in Black",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Subtractive Palette",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Blizzard in Cyan",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Maw Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Swiftcast",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Stone in Yellow",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fanged Muse",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Pom Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Thunder in Magenta",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Striking Muse",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Stamp",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Brush",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Polishing Hammer",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Fire in Red",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Aero in Green",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Water in Blue",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Motif",
+            "targetList": [
+                1
+            ]
         }
     ]
 }
