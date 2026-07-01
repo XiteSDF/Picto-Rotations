@@ -2427,23 +2427,9 @@
         },
         {
             "type": "Skill",
-            "skillName": "Fire in Red",
+            "skillName": "Comet in Black",
             "targetList": [
-                3
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Aero in Green",
-            "targetList": [
-                3
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Water in Blue",
-            "targetList": [
-                3
+                1
             ]
         },
         {
@@ -2465,6 +2451,13 @@
             "skillName": "Water in Blue",
             "targetList": [
                 3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Subtractive Palette",
+            "targetList": [
+                1
             ]
         },
         {
