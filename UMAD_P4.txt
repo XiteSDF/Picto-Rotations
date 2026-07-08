@@ -282,28 +282,7 @@
         },
         {
             "type": "Skill",
-            "skillName": "Subtractive Palette",
-            "targetList": [
-                1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Blizzard in Cyan",
-            "targetList": [
-                5
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Stone in Yellow",
-            "targetList": [
-                5
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Thunder in Magenta",
+            "skillName": "Fire in Red",
             "targetList": [
                 5
             ]
@@ -322,16 +301,16 @@
         },
         {
             "type": "Skill",
-            "skillName": "Claw Motif",
+            "skillName": "Aero in Green",
             "targetList": [
-                1
+                5
             ]
         },
         {
             "type": "Skill",
-            "skillName": "Smudge",
+            "skillName": "Water in Blue",
             "targetList": [
-                1
+                5
             ]
         },
         {
@@ -350,9 +329,23 @@
         },
         {
             "type": "Skill",
-            "skillName": "Swiftcast",
+            "skillName": "Subtractive Palette",
             "targetList": [
                 1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Thunder in Magenta",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Comet in Black",
+            "targetList": [
+                5
             ]
         },
         {
@@ -364,7 +357,7 @@
         },
         {
             "type": "Skill",
-            "skillName": "Water in Blue",
+            "skillName": "Blizzard in Cyan",
             "targetList": [
                 5
             ]
@@ -385,9 +378,9 @@
         },
         {
             "type": "Skill",
-            "skillName": "Mog of the Ages",
+            "skillName": "Addle",
             "targetList": [
-                5
+                1
             ]
         },
         {
@@ -399,26 +392,14 @@
         },
         {
             "type": "Skill",
-            "skillName": "Addle",
-            "targetList": [
-                1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Fire in Red",
+            "skillName": "Mog of the Ages",
             "targetList": [
                 5
             ]
         },
         {
             "type": "Skill",
-            "skillName": "Clawed Muse",
-            "targetList": []
-        },
-        {
-            "type": "Skill",
-            "skillName": "Aero in Green",
+            "skillName": "Stone in Yellow",
             "targetList": [
                 5
             ]
@@ -446,9 +427,16 @@
         },
         {
             "type": "Skill",
-            "skillName": "Comet in Black",
+            "skillName": "Swiftcast",
             "targetList": [
-                5
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Claw Motif",
+            "targetList": [
+                1
             ]
         },
         {
@@ -457,6 +445,11 @@
             "targetList": [
                 5
             ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Clawed Muse",
+            "targetList": []
         },
         {
             "type": "Skill",
@@ -544,6 +537,13 @@
         },
         {
             "type": "Skill",
+            "skillName": "Holy in White",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
             "skillName": "Subtractive Palette",
             "targetList": [
                 1
@@ -552,20 +552,6 @@
         {
             "type": "Skill",
             "skillName": "Blizzard in Cyan",
-            "targetList": [
-                5
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Swiftcast",
-            "targetList": [
-                1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Rainbow Drip",
             "targetList": [
                 5
             ]
