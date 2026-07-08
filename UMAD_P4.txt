@@ -60,12 +60,6 @@
                 "effectOrTimerEnabled": true
             },
             {
-                "type": "WEAPON_CANVAS",
-                "timeTillFullOrDrop": -1,
-                "stacks": 0,
-                "effectOrTimerEnabled": true
-            },
-            {
                 "type": "PAINT",
                 "timeTillFullOrDrop": -1,
                 "stacks": 3,
@@ -82,20 +76,26 @@
                 "timeTillFullOrDrop": -1,
                 "stacks": 3,
                 "effectOrTimerEnabled": true
+            },
+            {
+                "type": "CREATURE_CANVAS",
+                "timeTillFullOrDrop": -1,
+                "stacks": 0,
+                "effectOrTimerEnabled": true
             }
         ]
     },
     "actions": [
         {
             "type": "Skill",
-            "skillName": "Hammer Motif",
+            "skillName": "Striking Muse",
             "targetList": [
                 1
             ]
         },
         {
             "type": "Skill",
-            "skillName": "Striking Muse",
+            "skillName": "Pom Motif",
             "targetList": [
                 1
             ]
@@ -187,9 +187,7 @@
         {
             "type": "Skill",
             "skillName": "Pom Muse",
-            "targetList": [
-                5
-            ]
+            "targetList": []
         },
         {
             "type": "Skill",
@@ -263,6 +261,13 @@
         },
         {
             "type": "Skill",
+            "skillName": "Comet in Black",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
             "skillName": "Aero in Green",
             "targetList": [
                 5
@@ -271,13 +276,6 @@
         {
             "type": "Skill",
             "skillName": "Water in Blue",
-            "targetList": [
-                5
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Comet in Black",
             "targetList": [
                 5
             ]
@@ -387,6 +385,13 @@
         },
         {
             "type": "Skill",
+            "skillName": "Mog of the Ages",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
             "skillName": "Starry Sky Motif",
             "targetList": [
                 1
@@ -421,13 +426,6 @@
         {
             "type": "Skill",
             "skillName": "Water in Blue",
-            "targetList": [
-                5
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Mog of the Ages",
             "targetList": [
                 5
             ]
@@ -476,16 +474,16 @@
         },
         {
             "type": "Skill",
-            "skillName": "Water in Blue",
+            "skillName": "Subtractive Palette",
             "targetList": [
-                5
+                1
             ]
         },
         {
             "type": "Skill",
-            "skillName": "Subtractive Palette",
+            "skillName": "Thunder in Magenta",
             "targetList": [
-                1
+                5
             ]
         },
         {
@@ -511,7 +509,7 @@
         },
         {
             "type": "Skill",
-            "skillName": "Holy in White",
+            "skillName": "Star Prism",
             "targetList": [
                 5
             ]
@@ -519,13 +517,6 @@
         {
             "type": "Skill",
             "skillName": "Fanged Muse",
-            "targetList": [
-                5
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Star Prism",
             "targetList": [
                 5
             ]
@@ -546,7 +537,7 @@
         },
         {
             "type": "Skill",
-            "skillName": "Thunder in Magenta",
+            "skillName": "Water in Blue",
             "targetList": [
                 5
             ]
@@ -561,6 +552,20 @@
         {
             "type": "Skill",
             "skillName": "Blizzard in Cyan",
+            "targetList": [
+                5
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Swiftcast",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Rainbow Drip",
             "targetList": [
                 5
             ]
