@@ -1720,8 +1720,25 @@
         },
         {
             "type": "Skill",
-            "skillName": "Stone in Yellow",
+            "skillName": "Holy in White",
             "targetList": [
+                3,
+                4
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Holy in White",
+            "targetList": [
+                3,
+                4
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Holy in White",
+            "targetList": [
+                1,
                 3
             ]
         },
@@ -1735,23 +1752,21 @@
         },
         {
             "type": "Skill",
-            "skillName": "Holy in White",
-            "targetList": [
-                3,
-                4
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Holy in White",
-            "targetList": [
-                3,
-                4
-            ]
-        },
-        {
-            "type": "Skill",
             "skillName": "Swiftcast",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Stone in Yellow",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Sprint",
             "targetList": [
                 1
             ]
@@ -1772,14 +1787,14 @@
         },
         {
             "type": "Skill",
-            "skillName": "Sprint",
+            "skillName": "Blizzard in Cyan",
             "targetList": [
-                1
+                3
             ]
         },
         {
             "type": "Skill",
-            "skillName": "Blizzard in Cyan",
+            "skillName": "Comet in Black",
             "targetList": [
                 3
             ]
@@ -1793,35 +1808,28 @@
         },
         {
             "type": "Skill",
-            "skillName": "Comet in Black",
-            "targetList": [
-                3
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Smudge",
+            "skillName": "Striking Muse",
             "targetList": [
                 1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Addle",
-            "targetList": [
-                1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Holy in White",
-            "targetList": [
-                3
             ]
         },
         {
             "type": "Skill",
             "skillName": "Claw Motif",
+            "targetList": [
+                1
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Hammer Stamp",
+            "targetList": [
+                3
+            ]
+        },
+        {
+            "type": "Skill",
+            "skillName": "Addle",
             "targetList": [
                 1
             ]
@@ -1838,20 +1846,6 @@
             "skillName": "Maw Motif",
             "targetList": [
                 1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Striking Muse",
-            "targetList": [
-                1
-            ]
-        },
-        {
-            "type": "Skill",
-            "skillName": "Hammer Stamp",
-            "targetList": [
-                3
             ]
         },
         {
